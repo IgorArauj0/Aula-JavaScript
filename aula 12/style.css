@@ -1,0 +1,13 @@
+#meuElemento {
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+}
+
+.square {
+    border-radius: 0%; /*tornando a caixa quadrada*/
+}
+
+.circle {
+    border-radius: 100%;
+}

@@ -1,0 +1,14 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: grey;
+    color: white;
+}
+
+img {
+    height: auto;
+    max-width: 300px;
+    display: block;
+    margin: 20px auto;
+}
