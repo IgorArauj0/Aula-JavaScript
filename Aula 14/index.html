@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+ 
+    <h1>Cadastro de Produtos</h1>
+
+   <form id="dataForm">
+         <label for="name">Nome:</label>
+         <input type="text" name="name" id="name"> <br> <br>
+
+         <label for="productId">ID do Produto:</label>
+         <input type="text" name="productId" id="productId"> <br> <br>
+
+         <label for="value">Valor:</label>
+         <input type="text" name="value" id="value"> <br> <br>
+
+         <label for="number">Número</label>
+         <input type="text" name="number" id="number"> <br> <br>
+
+         <button onclick="generatePDF()">ENVIAR</button>
+   </form>
+
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.1/jspdf.debug.js" integrity="sha384-THVO/sM0mFD9h7dfSndI6TS0PgAGavwKvB5hAxRRvc0o9cPLohB0wb/PTA7LdUHs" crossorigin="anonymous"></script>
+    
+   <script src="script.js"></script>
+</body>
+</html>
