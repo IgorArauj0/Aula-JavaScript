@@ -1,4 +1,3 @@
-# INTENÇÃO DE VAGA
-Link do Forms para Intenção de Vaga:
+# LINK BIBLIOTECA
 
-https://docs.google.com/forms/d/e/1FAIpQLScNtAqiG6rw-5KjJ66n2ligKV5V3FVnEHtyeCkXkUTAqMHUxg/viewform
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
